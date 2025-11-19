@@ -25,7 +25,7 @@ TODO list at the end of the page
 
 
 ## :t-rex: Prerequisites
-* [ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu) (but it should be compatible with the other ROS versions)
+* [ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu) (⚠️ ATTENTION: ROS1 will be deprecated soon. This repo will move to ROS2)
 * [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 * [Pinocchio](https://github.com/stack-of-tasks/pinocchio/tree/master)
 
