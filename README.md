@@ -24,12 +24,14 @@ TODO list at the end of the page
 
 
 
-## :t-rex: Prerequisites
-* [ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu) (⚠️ ATTENTION: ROS1 is deprecated. This repo will move to ROS2)
+## :t-rex: Prerequisites (Don't worry! In this repo, we provide **Dockerization** to avoid dealing with the dependencies!)
 * [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 * [Pinocchio](https://github.com/stack-of-tasks/pinocchio/tree/master)
+* [ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu)
 
-⚠️ Don't worry! In this repo, we provide **Dockerization** to avoid dealing with the dependencies!
+⚠️ ATTENTION: ROS1 is deprecated. This repo will move to ROS2. There is a "still-not-stable" ROS2 version on the [`ros2`](https://github.com/iit-DLSLab/muse/tree/ros2) branch, that will become the official one at a certain point. The latest release with ROS1 is the [v1.0.0](https://github.com/iit-DLSLab/muse/releases/tag/v1.0.0).
+
+
 
 ## :hammer_and_wrench: Building and Running
 
@@ -85,7 +87,7 @@ For real-world experiments, we recommend using this very nice [MPC](https://gith
 ## :scroll: TODO list
 - [ ] Extend the code to include exteroception
 - [x] Dockerization
-- [ ] Support for ROS2
+- [x] Support for ROS2 (on going)
 
 ## :hugs: Contributing
 
