@@ -29,7 +29,8 @@ TODO list at the end of the page
 * [Pinocchio](https://github.com/stack-of-tasks/pinocchio/tree/master)
 * [ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu)
 
-⚠️ ATTENTION: ROS1 is deprecated. This repo will move to ROS2. There is a "still-not-stable" ROS2 version on the [`ros2`](https://github.com/iit-DLSLab/muse/tree/ros2) branch, that will become the official one at a certain point. The latest release with ROS1 is the [v1.0.0](https://github.com/iit-DLSLab/muse/releases/tag/v1.0.0).
+⚠️ ATTENTION: ROS1 is deprecated. This repo will move to ROS2. There is a  working ROS2 version that directly uses [`unitree sdk`](https://github.com/iit-DLSLab/muse/tree/unitree_sdk) to communicate with the unitree robots, and a "still-not-stable" ROS2 version on the [`ros2`](https://github.com/iit-DLSLab/muse/tree/ros2) branch, which will become the official one at a certain point. 
+The latest release with ROS1 is the [v1.0.0](https://github.com/iit-DLSLab/muse/releases/tag/v1.0.0).
 
 
 
